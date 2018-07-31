@@ -1,5 +1,5 @@
 [Something](#something)
-[ss](##ss)
+[ss](#ss)
 
 
 
