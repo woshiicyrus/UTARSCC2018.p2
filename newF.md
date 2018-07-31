@@ -1,4 +1,4 @@
-[s](#some--thing)
+[s](#some-thing)
 
 
 
