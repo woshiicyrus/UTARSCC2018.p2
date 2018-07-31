@@ -1,4 +1,4 @@
-[s](#something)
+[s](#some-thing)
 
 
 
@@ -17,4 +17,4 @@
 
 
 
-something
+some-thing
