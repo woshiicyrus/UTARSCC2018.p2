@@ -1,19 +1,4 @@
-[s](somet--hing)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-k
+[s](something)
 
 
 
@@ -32,20 +17,4 @@ k
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-somet-hing
+something
